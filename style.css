@@ -95,21 +95,21 @@ body {
 .class-background1 {
   height: 100vh;
   position: relative;
-  background-image: url(01-hero.jpg);
+  background-image: url(img/01-hero.jpg);
   background-size: cover;
   color: #fff;
 }
 .class-background2 {
   height: 100vh;
   position: relative;
-  background-image: url(02-hero.jpg);
+  background-image: url(img/02-hero.jpg);
   background-size: cover;
   color: #fff;
 }
 .class-background3 {
   height: 100vh;
   position: relative;
-  background-image: url(03-hero.jpg);
+  background-image: url(img/03-hero.jpg);
   background-size: cover;
   color: #fff;
 }
